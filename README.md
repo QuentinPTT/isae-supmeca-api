@@ -1,2 +1,2 @@
 # isae-supmeca-api
-Retrieving notes directly from the login cookie
+Retrieving marks directly from the login cookie
